@@ -1,0 +1,13 @@
+US:
+
+- create-react-app
+- styled-components
+- async await
+- React-router-dom
+
+
+- Consumir una api publica (usamos hooks ) con un boton que te tire un usuario aleatorio
+- (https://randomuser.me/)
+- React-Router para pasar de una pagina de bienvenida a la api
+- Hacer un request a la api a traves de un boton que devuelva los datos en forma de un card
+
